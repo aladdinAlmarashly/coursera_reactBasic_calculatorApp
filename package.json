@@ -1,6 +1,6 @@
 {
-  "name": "reactlab",
-  "private": true,
+  "name": "calculator_app",
+  "homepage": "https://aladdinalmarashly.github.io/coursera_reactBasic_calculatorApp/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
