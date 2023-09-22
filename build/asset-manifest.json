@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ee91bd1.css",
-    "main.js": "/static/js/main.b26dfad8.js",
-    "index.html": "/index.html",
-    "main.4ee91bd1.css.map": "/static/css/main.4ee91bd1.css.map",
-    "main.b26dfad8.js.map": "/static/js/main.b26dfad8.js.map"
+    "main.css": "/coursera_reactBasic_calculatorApp/build/static/css/main.4ee91bd1.css",
+    "main.js": "/coursera_reactBasic_calculatorApp/build/static/js/main.169d6eea.js",
+    "index.html": "/coursera_reactBasic_calculatorApp/build/index.html",
+    "main.4ee91bd1.css.map": "/coursera_reactBasic_calculatorApp/build/static/css/main.4ee91bd1.css.map",
+    "main.169d6eea.js.map": "/coursera_reactBasic_calculatorApp/build/static/js/main.169d6eea.js.map"
   },
   "entrypoints": [
     "static/css/main.4ee91bd1.css",
-    "static/js/main.b26dfad8.js"
+    "static/js/main.169d6eea.js"
   ]
 }
