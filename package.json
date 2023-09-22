@@ -1,7 +1,6 @@
 {
   "name": "reactlab",
   "private": true,
-  "homepage": "/coursera_reactBasic_calculatorApp/build",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
